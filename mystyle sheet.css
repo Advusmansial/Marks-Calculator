@@ -1,0 +1,35 @@
+#marksForm {
+    font-family: sans-serif;
+    width: 300px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 450px;
+  }
+  
+  #marksForm input[type="number"] {
+    width: 60px;
+    height: 20px;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-bottom: 10px;
+  }
+  
+  #marksForm button {
+    width: 120px;
+    height: 30px;
+    background-color: #3366d4;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  #result {
+    font-family: sans-serif;
+    font-size: 18px;
+    font-weight: bold;
+    color: #4caf50;
+    margin-top: 10px;
+  }
